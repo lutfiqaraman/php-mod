@@ -8,9 +8,9 @@
 $sum = 0;
 
 /*
- * The loop to check echo number from 0 to 1000
+ * The loop is checking number from 0 to 1000
  * if the number is multiples of 3 or 5
- * The remainder of $number divided by 3 or 5 should be 0
+ * the remainder of $number should be 0
  */
 
 for ($number = 0; $number < 1000; $number++) {
